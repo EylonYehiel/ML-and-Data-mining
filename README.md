@@ -1,3 +1,5 @@
+<div style="background-image: url('car_price_predictor_proj/car_sample.jpg'); padding: 50px; background-size: cover; color: white;">
+
 # Car Price Prediction Project
 ## Overview
 This project is designed to predict car prices using a combination of web scraping, machine learning, and web development. It consists of three main parts:
