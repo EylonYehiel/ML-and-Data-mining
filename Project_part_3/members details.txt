@@ -1,7 +1,4 @@
 Name: Eylon Yehiel
-ID: 209270180
-
 Name: Michael Mutter
-ID: 315970194
 
 GitHub:   https://github.com/EylonYehiel/ML-and-Data-mining
